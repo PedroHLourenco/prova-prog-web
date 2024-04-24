@@ -17,7 +17,6 @@ h1 {
 
 main {
     display: grid;
-    text-decoration: none;
 }
 
 ul {
@@ -30,6 +29,7 @@ li {
 
 .lista-estados {
     color: #333;
+    text-decoration: none;
 }
 
 .lista-estados:hover {
