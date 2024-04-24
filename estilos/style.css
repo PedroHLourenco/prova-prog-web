@@ -29,5 +29,5 @@ ul {
 }
 
 li {
-    marker: none;
+    list-style-type: none;
 }
