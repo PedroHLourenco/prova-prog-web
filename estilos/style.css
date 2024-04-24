@@ -31,3 +31,11 @@ ul {
 li {
     list-style-type: none;
 }
+
+.lista-estados {
+    color: #333;
+}
+
+.lista-estados:hover {
+    opacity: 0.8;
+}
