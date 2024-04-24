@@ -1,5 +1,5 @@
 header {
-    margin: auto;
+    display: block;
     padding: 20px;
     background-color: #0074d9;
     color: white;
@@ -20,13 +20,6 @@ main {
     text-decoration: none;
 }
 
-footer {
-    margin: auto;
-    background-color: #333;
-    color: white;
-    text-align: center;
-}
-
 ul {
     text-align: center;
 }
@@ -41,4 +34,12 @@ li {
 
 .lista-estados:hover {
     opacity: 0.8;
+}
+
+footer {
+    display: block;
+    padding: 30px;
+    background-color: #333;
+    color: white;
+    text-align: center;
 }
