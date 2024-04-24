@@ -7,6 +7,12 @@ header {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+header>a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
 main {
     display: grid;
 }
