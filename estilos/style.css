@@ -30,6 +30,7 @@ li {
 .lista-estados {
     color: #333;
     text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .lista-estados:hover {
